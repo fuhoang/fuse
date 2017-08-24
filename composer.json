@@ -1,0 +1,12 @@
+{
+    "name": "root/fuse",
+    "authors": [
+        {
+            "name": "fuhoang",
+            "email": "fuhoang84@googlemail.com"
+        }
+    ],
+    "require": {
+    	"sunra/php-simple-html-dom-parser": "1.5.2"
+    }
+}
